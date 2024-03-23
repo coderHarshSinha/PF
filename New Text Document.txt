@@ -1,0 +1,28 @@
+image css
+
+.profile-image {
+        
+        /* Adjust the width and height to your preferred dimensions */
+        width: 400px;
+        height: 400px;
+      
+        /* Add a border-radius for rounded corners (adjust the value to change the roundness) */
+        border-radius: 50%;
+      
+        /* Add a border and adjust the color and thickness as needed */
+        border: 2px solid #3498db;
+      
+        /* Add margin to control the spacing around the image */
+        margin: 10px;
+      
+        /* You can also add a box-shadow for a subtle effect */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      }
+      .home-img{
+        display: flex;
+        /* justify-content: center; */
+        align-items: center;
+        /* You can set a fixed width and height for the container if needed */
+        width: 300px;
+        height: 300px;
+      }
